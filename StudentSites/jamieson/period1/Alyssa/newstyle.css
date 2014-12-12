@@ -1,0 +1,74 @@
+		h1 {
+			text-align: center;
+		}
+
+		h2 {
+			text-align: center;
+		}
+
+		h3 {
+			text-align: center;
+		}
+
+		p {
+			text-align: center;
+
+   			 font-family: "Times New Roman", Times, serif;
+		}
+
+		a:link    {color:#00FFFF; background-color:transparent}
+		a:visited {color:#CC0000; background-color:transparent}
+		a:hover   {color:#00FF00; background-color:transparent}
+		a:active  {color:#00FF00; background-color:transparent}
+
+		.title {
+			border: solid black 2px;
+			outline-style: dotted;
+   			outline-color: #000000;
+			text-align: center;
+			background-color: #989898;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+		.title2 {
+			border-radius: 25px;
+			background-color: #931616; 
+			outline-style: dotted;
+   			outline-color: #FFFFFF;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+		.maroon {
+			background-color: #931616;
+			outline-style: dotted;
+   			outline-color: #000000;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+		.grey {
+			background-color: #989898;
+			outline-style: dotted;
+   			outline-color: #FFFFFF;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+		.maroon2 {
+			background-color: #931616;
+			outline-style: dotted;
+   			outline-color: #000000;
+			text-align: center;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+		img {
+			width: 25%;
+			height: auto;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 10px;
+		}

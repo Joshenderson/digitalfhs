@@ -1,0 +1,98 @@
+body {
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+	font-size: 55px;
+	color: gold;
+}
+
+img {
+	width: 25%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}	
+
+.h2 {
+	text-align: center;
+	font-size:25px;
+	color: blue;
+}
+
+.h2:hover {
+	text-align: center;
+	font-size:25px;
+	color: gold;	
+}
+
+.p {
+	text-align: center;
+	font-size: 15px;
+	color: tan;
+}
+
+.p:hover {
+	text-align: center;
+	font-size: 15px;
+	color: gold;
+	text-decoration: underline;	
+}
+
+#navigation {
+			list-style: none;
+			text-align: center;
+}
+
+#navigation li a {
+				text-decoration: underline;
+				background-color: navy;
+				color: yellow;
+				font-size: 15px;
+}
+
+#p2 {
+		margin: auto;
+		border-radius: 20px;
+		border: dotted blue 10px;
+	}
+
+#about {
+		margin: auto;
+		border-radius: 20px;
+		border: dotted navy 10px;
+	}
+
+#jobs {
+		margin: auto;
+		border-radius: 20px;
+		border: dotted #333300 10px;
+		
+	}
+
+#job {
+	background-color: #990000;
+}
+
+#navy:hover {
+	color: navy;
+	text-decoration: underline;
+}
+
+#navyp:hover {
+	color: navy;
+
+}
+
+#chain:hover {
+	color: olive;
+	text-decoration: underline;
+}
+
+#chainp:hover {
+	color: olive;
+}
+http://www.military1.com/all-enlistment/318809-marine-corps-mos-codes
